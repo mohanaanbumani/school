@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Dear School</title>
+    <style>
+        body {
+            background-color: lightblue;
+            font-family: Arial, sans-serif;
+            margin: 10px;
+        }
+
+        h1 {
+            color: darkblue;
+            text-align: center;
+        }
+
+        p {
+            font-size: 18px;
+            color: darkgreen;
+            text-align: center;
+            border:2px solid blue;
+           padding:10px;
+        }
+
+        ul {
+            list-style-type: circle;
+            margin-top: 10px;
+            max-width: 300px;
+            margin: 20px auto;
+        }
+
+        ul li {
+            font-size: 18px;
+            color: #4a7c59;
+        }
+
+        img {
+            display: block;
+            margin: 0 auto;
+            width: 300px;
+            border-radius: 10px;
+        }
+
+        a {
+            display: block;
+            text-align: center;
+            font-size: 18px;
+            color: darkblue;
+            text-decoration: underline;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My School</h1>
+    <p>This is the school I go to. It's the best place to learn and grow! We have highly qualified teachers and a friendly learning environment that supports both academic and personal development.</p>
+
+    <h2>Our Facilities</h2>
+    <ul>
+        <li>Science Laboratory</li>
+        <li>Library</li>
+        <li>Sports Ground</li>
+        <li>Computer Lab</li>
+        <li>Music Room</li>
+    </ul>
+
+    <h2>Our School Building</h2>
+    <img src="school-building.jpg" alt="Image of the School" />
+
+    <a href="https://www.schoolwebsite.com" target="_blank">Visit our School Website</a>
+
+</body>
+</html>
